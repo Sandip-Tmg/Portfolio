@@ -36,12 +36,12 @@ export default function () {
               rel="noreferrer"
             >
               <div className="text-white rounded-full shadow-md shadow-gray-700 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-                <FaGithub size={20}/>
+                <FaGithub size/>
               </div>
             </a>
             <a href="">
               <div className="text-white rounded-full shadow-md shadow-gray-700 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-                <AiOutlineMail size={20}/>
+                <AiOutlineMail />
               </div>
             </a>
             {/* <a href={Resume}>
