@@ -14,7 +14,7 @@ export default function Nav() {
 
         {/* menu*/}
         <div>
-          <ul className='hidden md:flex'>  {/* display when above 760px else display none*/}
+          <ul className='hidden md:flex '>  {/* display when above 760px else display none*/}
             <li>Home</li>
             <li>About</li>
             <li>Skills</li>

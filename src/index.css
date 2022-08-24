@@ -2,13 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base{
-    body{
-        @apply from-neutral-500;
-    }
+@layer base {
+  body {
+    @apply from-neutral-500;
+  }
 
-    li{
-        @apply px-5;
-        @apply cursor-pointer;
-    }
+  li {
+    @apply px-5;
+    @apply cursor-pointer;
+    @apply hover:text-sky-700 ease-in duration-300;
+  }
 }
