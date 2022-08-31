@@ -2,6 +2,7 @@ import React from "react";
 import { AiOutlineMail } from "react-icons/ai";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
+
 // import Resume from '../../assets/resume.pdf'
 
 export default function () {
@@ -14,7 +15,7 @@ export default function () {
             Sandip Tamang
           </h1>
           <h2 className="py-2 text-4xl sm:text-7xl font-bold text-[#8892b0]">
-            I'm a Software Engineer.
+            I'm a Software Engineer
           </h2>
           <p className="py-4 text-gray-600 text-2xl sm:max-w-[70%] m-auto app-p">
             I’m passionate in technologies and have a keen interest in software development, machine learning, and game development.
